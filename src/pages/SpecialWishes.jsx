@@ -6,14 +6,15 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Happy birthday, sayang. Semoga hari ini bawa banyak hal baik buat kamu. Makasih udah jadi rumah paling tenang buat aku. Semoga apa pun yang kamu kejar pelan-pelan nyampe ya. I’m proud of you
+Halo Bella! hari ini adalah pengingat kalau dunia pernah dikasih hadiah besar waktu Bella lahir. Semoga Bella selalu dalam lindungan Tuhan, dikasih kesehatan, kekuatan dan bahagia yang banyak.
 
-Kamu tahu nggak… dari semua hal yang pernah datang dan pergi dalam hidup aku, kamu itu yang paling menetap di hati. Bukan cuma jadi seseorang yang aku sayang, tapi jadi tempat terakhir yang aku mau pulang. Kamu last love aku..bukan karena dunia berhenti berputar, tapi karena hati aku berhenti mencari sejak ketemu kamu.
+Ein tau Bella mungkin kadang merasa berat tapi Ein mau Bella tau, Ein selalu ada selalu kasih semangat dan jadi pundak saat Bella lelah.
 
-Sama kamu, semuanya kerasa lebih tenang. Nggak perlu pura-pura kuat, nggak perlu jadi versi lain dari diri aku. Kamu hadir, dan tiba-tiba hidup rasanya punya arah yang lebih lembut. Aku nggak minta banyak… cukup kamu tetap ada, tetap jadi kamu yang bikin aku yakin kalau cinta terakhir itu bukan sekadar janji, tapi pilihan yang aku pegang setiap hari.
+Semoga tiap langkah Bella selalu dalam penyertaan Tuhan, impiannya satu-persatu terkabulkan. Ein percaya bella punya hati tulus dengan senyum yang buat orang lain merasa tenang dan jiwa cantik luar dalam. Dunia butuh lebih banyak orang seperti Bella!
 
-Kalau suatu hari kamu nanya kenapa aku setia sama kamu, jawabannya simpel: karena di antara semua yang pernah aku rasa, kamu yang paling masuk akal untuk aku jaga. Kamu last love aku..dan aku nggak mau ada siapa pun lain setelah ini
+Kalau suatu hari Bella merasa ragu atau takut, ingat doa Ein : Semoga bella selalu dikelilingi orang-orang baik, rezeki yang cukup dan cinta yang tulus dari semua arah, termasuk dari Ein🫶🏻
 
+Ein sayang bella, dan selalu sayang Bella❤️
   `;
 
   return (
@@ -83,10 +84,10 @@ Kalau suatu hari kamu nanya kenapa aku setia sama kamu, jawabannya simpel: karen
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Can 💖
+                  Bella 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
-                  Hanya kamu di hatiku, sayang 🥹
+                  My Heart Belongs to you, Honey🥹
                 </div>
               </motion.div>
             </motion.div>

@@ -32,14 +32,14 @@ const Memories = ({ isIOS }) => {
           <h2 className="text-2xl font-semibold text-rose-600 mb-4">
             Permintaan maafku di hari ulang tahunmu
           </h2>
+
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              Sayang, I'm so sorry ya kalau tingkahku akhir-akhir ini sering
-              ngeselin dan bikin kamu bad mood.
+              Maaf ya Bellaaa...
             </motion.p>
 
             <motion.p
@@ -47,8 +47,10 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Aku sadar banget, sifat manja atau rewelku itu kadang suka
-              keterlaluan dan pasti nyusahin kamu banget.
+              maaf kalau selama ini pernah cuek, atau kurang peka sama
+              perasaannya Bella. maaf kalau suka bikin Bella bete, ndamood,
+              salahpaham, atau bikin Bella kecewa. Ein bukan sengajaa, Ein masih
+              berusaha buat ngetreat Bella, buat cinta Bella lebih baik.
             </motion.p>
 
             <motion.p
@@ -56,8 +58,8 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              Aku janji akan lebih aware dan berusaha banget buat nggak gampang
-              ngambek atau ngerepotin.
+              Terima kasih sudah sabar, bisa terima Ein. Ein bakal lebih banyak
+              belajar lagi untuk Bella.
             </motion.p>
 
             <motion.p
@@ -65,7 +67,7 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 2.4 }}
             >
-              Makasih banyak ya udah sabar banget sama aku Bbyy
+              Maaf dan Terimakasih sudah mau sama Ein❤️‍🩹
             </motion.p>
           </div>
         </motion.div>
