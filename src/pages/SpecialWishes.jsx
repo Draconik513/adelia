@@ -6,14 +6,15 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Happy birth day my fav teacher  💗
-Yeay !! 😬 Hari ini adalah moment yang paling indah karena tepat 24 th wanita hebatku di lahirkan 🎉 
+Sayangku 💖, hari ini adalah hari yang paling indah karena kamu lahir ke dunia. Aku berdoa semoga kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan, kekuatan, dan kebahagiaan tanpa akhir.
 
-Semoga Brili selalu dalam lindungan Allah swt,kesehatan ,kekuatan dan kebahagiaan tiada akhir 🤏
+Aku tahu hidup tidak selalu mudah, tapi aku ingin kamu tahu bahwa kamu tidak pernah sendiri. Aku akan selalu ada untuk mendukungmu, menyemangatimu, dan menjadi tempatmu bersandar saat kamu lelah 🤍.
 
-Saya tahu hidup tidak mudah,tapi saya ingin tahu bahwa Brili tidak sendiri , saya akan berusaha terus mendukungmu dan menjadi pundakmu saat kamu lelah 😊
+Semoga setiap langkahmu penuh berkah, dan setiap impianmu perlahan menjadi kenyataan ✨. Kamu punya hati yang tulus, senyum yang menenangkan, dan jiwa yang cantik luar dalam. Dunia butuh lebih banyak orang sepertimu 🌷.
 
+Aku percaya sepenuhnya padamu. Kamu kuat, hebat, dan pantas mendapatkan yang terbaik 💪. Jangan pernah ragukan dirimu sendiri, karena kamu adalah cahaya dalam hidup banyak orang — termasuk hidupku 💞.
 
+Jika suatu hari kamu merasa ragu atau takut, ingatlah bahwa aku selalu mendoakanmu agar dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus. Termasuk cintaku padamu ❤️.
 
   `;
 
@@ -84,7 +85,7 @@ Saya tahu hidup tidak mudah,tapi saya ingin tahu bahwa Brili tidak sendiri , say
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Briliani Kharismaningtias 💖
+                  Shinta Rahma 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   My Heart Belongs to you, Honey🥹

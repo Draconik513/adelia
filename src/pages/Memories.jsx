@@ -30,38 +30,39 @@ const Memories = ({ isIOS }) => {
           className="bg-white bg-opacity-90 backdrop-blur-sm p-6 rounded-xl shadow-lg mb-8 border border-pink-100"
         >
           <h2 className="text-2xl font-semibold text-rose-600 mb-4">
-            Permintaan maafku di hari ulang tahunmu
+            Permintaan Maafku di Hari Ulang Tahunmu
           </h2>
 
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
+            <p>
+              💌 <strong>Maaf ya, Sayang...</strong>
+            </p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              Maaf ya sayanggg...
+              Maaf kalau selama ini aku pernah cuek 😞, terlalu sibuk 😔, atau
+              kurang peka sama perasaanmu 😢. Maaf kalau kadang aku bikin kamu
+              kecewa, salah paham, atau merasa sendiri 😓. Aku gak pernah
+              berniat nyakitin kamu 🥺. Semua itu karena aku manusia biasa yang
+              masih belajar mencintaimu dengan lebih baik 🤍.
             </motion.p>
-
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Maaf selama ini saya pernah cuek atau kurang peka dengan perasaan
-              brili 🥹 saya gak pernah berniat seperti itu ,semua itu karena saya
-              manusia biasa yang masih belajar menintai dan menyayangi dengan
-              baik 💗
+              Terima kasih sudah sabar, sudah tetap di sini 🫶. Aku akan terus
+              belajar jadi lebih baik lagi... untuk kamu 💗
             </motion.p>
-
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              Maaf ya dan terima kasih brili selalu tetap percaya sama saya 🫶 
+              🙏🏻 Maaf ya, dan makasih karena kamu tetap percaya sama aku.
             </motion.p>
-
-            
           </div>
         </motion.div>
 
