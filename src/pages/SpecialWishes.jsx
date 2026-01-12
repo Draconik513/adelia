@@ -6,16 +6,17 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Sayangku 💖, hari ini adalah hari yang paling indah karena kamu lahir ke dunia. Aku berdoa semoga kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan, kekuatan, dan kebahagiaan tanpa akhir.
+Sayangku 💖, hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia 🎉. Aku ingin berdoa agar kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan 💪, kekuatan 🛡️, dan kebahagiaan yang tiada akhir 🌈✨.
 
-Aku tahu hidup tidak selalu mudah, tapi aku ingin kamu tahu bahwa kamu tidak pernah sendiri. Aku akan selalu ada untuk mendukungmu, menyemangatimu, dan menjadi tempatmu bersandar saat kamu lelah 🤍.
+Aku tahu hidup tidak selalu mudah 🌧️, tapi aku ingin kamu tahu bahwa kamu tidak sendiri 🤝. Aku akan selalu mendukungmu 💞, menyemangati kamu 💫, dan menjadi pundakmu saat kamu lelah 😔➡️💆‍♀️.
 
-Semoga setiap langkahmu penuh berkah, dan setiap impianmu perlahan menjadi kenyataan ✨. Kamu punya hati yang tulus, senyum yang menenangkan, dan jiwa yang cantik luar dalam. Dunia butuh lebih banyak orang sepertimu 🌷.
+Semoga setiap langkahmu penuh keberkahan 🕌, dan setiap impianmu satu per satu menjadi kenyataan 🌠. Kamu punya hati yang tulus 💓, senyum yang menenangkan 😊, dan jiwa yang cantik luar dalam 🌹. Dunia butuh lebih banyak orang sepertimu 🌍❤️.
 
-Aku percaya sepenuhnya padamu. Kamu kuat, hebat, dan pantas mendapatkan yang terbaik 💪. Jangan pernah ragukan dirimu sendiri, karena kamu adalah cahaya dalam hidup banyak orang — termasuk hidupku 💞.
+Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya 🙌. Kamu kuat 💥, kamu hebat 🦋, dan kamu pantas mendapatkan yang terbaik 🏆. Jangan pernah ragukan dirimu sendiri 🙅‍♀️, karena kamu adalah cahaya dalam hidup banyak orang 🌟, termasuk hidupku 💘.
 
-Jika suatu hari kamu merasa ragu atau takut, ingatlah bahwa aku selalu mendoakanmu agar dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus. Termasuk cintaku padamu ❤️.
+Jika suatu hari kamu merasa ragu atau takut 😟, ingatlah doaku ini: Semoga kamu selalu dikelilingi orang-orang baik 👨‍👩‍👧‍👦, rezeki yang cukup 💰, dan cinta yang tulus dari semua arah 💗. Termasuk dariku 🫶.
 
+Aku cinta kamu ❤️, dan akan selalu mencintaimu 💍.
   `;
 
   return (
@@ -85,7 +86,7 @@ Jika suatu hari kamu merasa ragu atau takut, ingatlah bahwa aku selalu mendoakan
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Shinta Rahma 💖
+                  dr Armand Surya Nugraha 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   My Heart Belongs to you, Honey🥹

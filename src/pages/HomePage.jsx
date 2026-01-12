@@ -21,7 +21,7 @@ const HomePage = ({ isIOS }) => {
         >
           <p className="text-lg text-pink-600 pt-4">Untuk yang tersayang</p>
           <h1 className="text-4xl font-extrabold bg-gradient-to-r from-pink-600 via-pink-400 to-purple-500 text-transparent bg-clip-text drop-shadow-md">
-            Shinta Rahma
+            dr Armand Surya Nugraha 
           </h1>
         </motion.div>
 
@@ -46,7 +46,7 @@ const HomePage = ({ isIOS }) => {
               webkit-playsinline="true"
               x-webkit-airplay="allow"
               className="w-full h-full object-cover"
-              style={{ transform: 'translateZ(0)' }}
+              style={{ transform: "translateZ(0)" }}
             />
           </div>
         </motion.div>
@@ -60,16 +60,27 @@ const HomePage = ({ isIOS }) => {
           <h2 className="text-3xl font-bold text-pink-600">
             Selamat Ulang Tahun Sayang!
           </h2>
-          <p className="text-xl text-pink-600">🎉 19 Maret 2026 🎉</p>
+          <p className="text-xl text-pink-600">🎉 12 Januari 2026 🎉</p>
 
           <div className="mt-8 p-4 bg-white/80 backdrop-blur-sm rounded-lg max-w-md mx-auto border border-pink-200">
             <p className="text-pink-800 italic">
-              ""Untuk pacarku yang tercinta, di hari spesialmu ini aku ingin
-              mengucapkan... Terima kasih telah menjadi cahaya dalam hidupku.
-              Setiap detik bersamamu adalah anugerah.""
+              "HAPPYYY BIRTHDAYYYYYYYYY Selamat ulangg tahunnn yaaaa semogaaa
+              cita cita yang kamu inginkan bisaa ter wujudd yaaa, panjang umurr
+              sehat selaluuuuu dan berbakti kepada orang tuaa, aamiinn
+              Semangattt teruss ya, jangan pernah putus asaa untuk mengejar
+              impian kamu, aku selaluu dukung dan support kamuu, Semoga di umur
+              inii datangg keberkahan penuh buatt kamuu, jangann lupaa bersyukur
+              yaaa. Terimakasiiii udaa mauu sabarrr samaa akuu, makasiiii jugaa
+              udaa sayangg ke akuu hwhehee, semogaaa tahun inii akan lebih baik
+              darimu sebelumnya kamuu lakukann, kamuu hebatt❤, pokoknyaa akuu
+              mintaa maaff samaa kamuu karnaaa sifat akuu yang bikin kamuu risih
+              atauu gimanaaa yaaa sekalii lagii maafff, intinya doa akuu bisa
+              menjadi orang yang sukses orang yang bisaa membanggakan orang tua.
+              ☆ And Jangan bosen yaa samaa akuu hehe, smogaa kitaa bisaa sama
+              samaa terusss yaa aamiinn aamiinn SELAMAT ULANGG TAHUNNNN SAYYANGG"
             </p>
             <p className="mt-4 text-right text-pink-600 font-medium">
-              - jayyyy
+              - Nurul Hidayana 
             </p>
           </div>
         </motion.div>
@@ -84,9 +95,7 @@ const HomePage = ({ isIOS }) => {
             whileHover={{ scale: isIOS ? 1 : 1.1 }}
             whileTap={{ scale: 0.9 }}
             onClick={() => navigate("/gift")}
-
             className="relative overflow-hidden bg-pink-500 text-white px-8 py-4 rounded-full shadow-lg text-xl font-bold"
-
           >
             <span className="button-text flex items-center">
               <span className="mr-2">🎁</span>
