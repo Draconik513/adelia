@@ -35,33 +35,31 @@ const Memories = ({ isIOS }) => {
 
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
             <p>
-              💌 <strong>Maaf ya, Sayang...</strong>
+              💌 <strong>Aku meminta maaf sayang ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა</strong>
             </p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              Maaf kalau selama ini aku pernah cuek 😞, terlalu sibuk 😔, atau
-              kurang peka sama perasaanmu 😢. Maaf kalau kadang aku bikin kamu
-              kecewa, salah paham, atau merasa sendiri 😓. Aku gak pernah
-              berniat nyakitin kamu 🥺. Semua itu karena aku manusia biasa yang
-              masih belajar mencintaimu dengan lebih baik 🤍.
+              Mulai dari perkataanku ke Adelia, aku belum bisa membagi waktuku,
+              aku sibuk dengan pekerjaan ku, aku kurang peka & salah paham
+              dengan Adelia. Aku meminta maaf ε(´｡•᎑•`)っ
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Terima kasih sudah sabar, sudah tetap di sini 🫶. Aku akan terus
-              belajar jadi lebih baik lagi... untuk kamu 💗
+              Aku akan berusaha lebih baik lagi ke Adelia, perjalanan kita masih
+              panjang sama-sama bisa lebih baik.
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              🙏🏻 Maaf ya, dan makasih karena kamu tetap percaya sama aku.
+              Love u so much sayang Adelia lifa milenia ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
             </motion.p>
           </div>
         </motion.div>
